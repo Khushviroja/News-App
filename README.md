@@ -1,6 +1,6 @@
 # News-App
 
-![News-App Logo](https://example.com/logo.png)
+![News-App Logo](public/logo512.png)
 
 Welcome to News-App! This project aims to provide a comprehensive news application that keeps you up-to-date with the latest news and headlines.
 
