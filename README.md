@@ -25,6 +25,33 @@ In the project directory, you can run:
 - `npm test`: Launches the test runner in interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 - `npm run build`: Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app is ready to be deployed! See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+# Snapshots
+
+## Home Page (General Headlines)
+![General Headlines](https://github.com/Khushviroja/News-App/assets/96327504/3ba4035f-4ca2-4ed0-bdc5-8004e52a6953)
+
+## Business Headlines
+![Business Headlines](https://github.com/Khushviroja/News-App/assets/96327504/0ddaaff1-96fb-48a9-8cdd-8bba8af8d199)
+
+## Entertainment Headlines
+![Entertainment Headlines](https://github.com/Khushviroja/News-App/assets/96327504/e932ad26-219f-45c9-868d-9a464cc98453)
+
+## Health Headlines
+![Health Headlines](https://github.com/Khushviroja/News-App/assets/96327504/ec97ae27-c9f3-40de-84d8-a9595c87dece)
+
+## Loading Bar
+![Loading Bar](https://github.com/Khushviroja/News-App/assets/96327504/5c55d77f-02fd-4d6e-934e-e1388d4bf5f5)
+
+## Science Headlines
+![Science Headlines](https://github.com/Khushviroja/News-App/assets/96327504/56564a91-97f8-496d-97a7-ca9d9fff84da)
+
+## Sports Headlines
+![Sports Headlines](https://github.com/Khushviroja/News-App/assets/96327504/08be9924-acaf-4361-b191-044f350837c2)
+
+## Technology Headlines
+![Technology Headlines](https://github.com/Khushviroja/News-App/assets/96327504/0433ad2b-4640-482b-87dc-b30ed79f7d02)
+
+
 ## Learn More
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started). To learn React, check out the [React documentation](https://reactjs.org/).
 
